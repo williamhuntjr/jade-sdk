@@ -1,0 +1,6 @@
+@import 'layout/layout.module.scss';
+
+.contentContainer {
+  width: 100%;
+  min-height: calc(100vh - #{$headerHeight});
+}
